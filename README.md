@@ -203,4 +203,4 @@ Gerichtsstand ist Gießen.
 
 # § 16 Schlussbestimmung
 Diese Satzung wurde durch die Gründungsversammlung am 20.09.2017 bestätigt. Sie erhält mit diesem Datum ihre Gültigkeit für die Arbeit des Vereins.  
-Unterschriften der Gründungsmitglieder: Gießen, 20.09.2017
+<strike>Unterschriften der Gründungsmitglieder: Gießen, 20.09.2017</strike>
