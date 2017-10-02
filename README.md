@@ -124,7 +124,7 @@ Scheitert die Beschlussfähigkeit an der Anzahl der erschienenen Mitglieder, so 
 
 8. Die Stimmabgabe erfolgt offen durch Handzeichen. Auf Antrag eines Mitglieds ist geheim abzustimmen, wenn dies nicht von zwei Dritteln der anwesenden Stimmen zurückgewiesen wird.
 
-9. Über jede Mitgliederversammlung ist ein Protokoll zu fertigen, das vom Leiter der Sitzung <strike>und vom Protokollführer</strike> zu unterzeichnen<strike> und vom stellvertretenden Vorsitzenden aufzubewahren ist</strike>. Die Niederschrift muss Ort und Tag, sowie Tagesordnung und Anwesenheitsliste der Versammlung enthalten. Das Protokoll ist unter Wahrung des Datenschutzes zu veröffentlichen.
+9. Über jede Mitgliederversammlung ist ein Protokoll zu fertigen, das vom Leiter der Sitzung zu unterzeichnen. Die Niederschrift muss Ort und Tag, sowie Tagesordnung und Anwesenheitsliste der Versammlung enthalten. Das Protokoll ist unter Wahrung des Datenschutzes zu veröffentlichen.
 
 # § 9 Außerordentliche Mitgliederversammlung
 1. Wenn das Interesse des Vereins es erfordert, kann der Vorstand eine außerordentliche Mitgliederversammlung einberufen.  
@@ -202,5 +202,4 @@ Der Verein haftet gegenüber den Mitgliedern nicht für Schäden und Sachverlust
 Gerichtsstand ist Gießen.
 
 # § 16 Schlussbestimmung
-Diese Satzung wurde durch die Gründungsversammlung am 20.09.2017 bestätigt. Sie erhält mit diesem Datum ihre Gültigkeit für die Arbeit des Vereins.  
-<strike>Unterschriften der Gründungsmitglieder: Gießen, 20.09.2017</strike>
+Diese Satzung wurde durch die Gründungsversammlung am 20.09.2017 bestätigt. Sie erhält mit diesem Datum ihre Gültigkeit für die Arbeit des Vereins.
